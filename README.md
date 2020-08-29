@@ -1,0 +1,2 @@
+# FlaskBaseTemplate
+基于flask进行web开发的基础模板
