@@ -1,0 +1,16 @@
+*__pycache__/
+.DS_Store
+.idea/
+*.pyc
+
+*test*
+
+*db.sqlite3*
+
+*.local/
+*tmp/
+*.swp
+*.out
+
+[https]
+postBuffer = 524288000
